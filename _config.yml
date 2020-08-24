@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   UC Berkeley B.A. Applied Mathematics 2020 
   Student Data Analyst for Cal Athletics
   <br><br>
-  <a href="https://www.linkedin.com/in/jodie-chin/">View My LinkedIn Profile</a> 
+  <p class="view"><a href="https://www.linkedin.com/in/jodie-chin/">View My LinkedIn Profile</a></p>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
