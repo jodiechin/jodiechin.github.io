@@ -4,23 +4,17 @@
 
 ### Data Science Projects 
 
-[Defensive Soccer Analytics](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Defensive Soccer Analytics (in progress)]
 
 ---
-[](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[New York Taxi Analysis](https://github.com/jodiechin/zelusdataassessment)
 
 ---
 
 ### Coursework Projects 
 
 - [Data100: Principles and Techniques of Data Science](https://github.com/jodiechin/jcdata100projects)
-- [CS61A: Yelp Maps](http://example.com/)
+- [CS61A: Yelp Maps](https://github.com/jodiechin/yelpmaps)
 
 
 ---
