@@ -19,6 +19,8 @@
 
 ---
 
+## Resume
+[My Resume](/pdf/JC_RESUME_082320.pdf)
 
 
 
