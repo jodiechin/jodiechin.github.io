@@ -4,7 +4,7 @@
 
 ### Data Science Projects 
 
-[Defensive Soccer Analytics (in progress)]
+[Defensive Soccer Analytics] (in progress)
 
 ---
 [New York Taxi Analysis](https://github.com/jodiechin/zelusdataassessment)
