@@ -13,8 +13,11 @@
 
 ### Coursework Projects 
 
-- [Data100: Principles and Techniques of Data Science](https://github.com/jodiechin/jcdata100projects)
+- [Data100: NBA Analysis](https://github.com/jodiechin/nbaanalysis)
+- [Data100: Food Safety](https://github.com/jodiechin/foodsafety)
+- [Data100: Spam/Ham Classifier](https://github.com/jodiechin/spamclassifier)
 - [CS61A: Yelp Maps](https://github.com/jodiechin/yelpmaps)
+- [CS61A: Ants](https://github.com/jodiechin/ants)
 
 
 ---
