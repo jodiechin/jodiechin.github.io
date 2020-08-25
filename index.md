@@ -24,6 +24,7 @@
 
 ## Resume
 [My Resume](/pdf/JC_RESUME_082320.pdf)
+<img src="/images/JC_RESUME_032320.jpg"/>
 
 
 
