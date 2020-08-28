@@ -7,7 +7,7 @@
 [Defensive Soccer Analytics] (in progress)
 
 ---
-[New York Taxi Analysis](https://github.com/jodiechin/zelusdataassessment)
+[New York Taxi Analysis](https://github.com/jodiechin/newyorktaxi)
 
 ---
 
