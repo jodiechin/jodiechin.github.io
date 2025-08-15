@@ -1,5 +1,6 @@
 ## Professional Experience
 
+
 ### Associate Product Manager at Hookit
 ##### September 2020 - January 2021 
 Hookit is a Sponsorship and Valuation platform that provides data to help quantify and track the value of sports sponsorships. As an Associate Product Manager, a key aspect of my position was to design products and features to increase KPI performance. I worked alongside business stakeholders to develop features and product requirement documents and engineers to ensure a smooth execution. After features were commercialized, I tracked feature performance and feedback for possible expansions and improvements. My main focus of projects were on the data science side, helping develop new data models and predictors for Hookit's platform.
@@ -37,8 +38,8 @@ As a data analyst at Cal Athletics, I worked closely with the CRM Analytics and 
 ---
 
 ## Resume
-[My Resume](/pdf/JC_RESUME_082320.pdf)
-<img src="/images/JC_RESUME_082320.jpg"/>
+[My Resume](/pdf/Resume_JodieChin_2025-9.pdf)
+<img src="/images/Resume_JodieChin_2025-9.pdf"/>
 
 
 
