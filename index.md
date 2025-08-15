@@ -38,7 +38,7 @@ As a data analyst at Cal Athletics, I worked closely with the CRM Analytics and 
 ---
 
 ## Resume
-[My Resume]('/pdf/Resume_JodieChin_2025-9.pdf')
+[My Resume](/pdf/Resume_JodieChin_2025-9.pdf)
 <img src="/images/Resume_JodieChin_2025-9.pdf"/>
 
 
